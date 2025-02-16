@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8fe9acb1e0f9f74c81a0ac4738f9efe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12131
+  packageName: Goblin
+  packageVersion: 1.1
+  assetPath: Assets/Goblin/Prefab/GOBLIN.prefab
+  uploadId: 37649

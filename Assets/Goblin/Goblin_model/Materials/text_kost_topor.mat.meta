@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91b65a4241635ef4daced9fe2085c33a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12131
+  packageName: Goblin
+  packageVersion: 1.1
+  assetPath: Assets/Goblin/Goblin_model/Materials/text_kost_topor.mat
+  uploadId: 37649

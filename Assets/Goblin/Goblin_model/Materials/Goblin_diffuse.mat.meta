@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7fe9b992a6cb964c8be606b5080bf1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12131
+  packageName: Goblin
+  packageVersion: 1.1
+  assetPath: Assets/Goblin/Goblin_model/Materials/Goblin_diffuse.mat
+  uploadId: 37649
